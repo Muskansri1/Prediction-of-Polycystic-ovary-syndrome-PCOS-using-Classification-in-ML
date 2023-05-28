@@ -1,6 +1,7 @@
 # Introduction
 Prediction of Polycystic Ovary Syndrome using ML Concepts
-https://medium.com/@muskansri1/exploring-machine-learning-techniques-for-health-data-analysis-a-case-study-on-pcos-2cffbfc10498
+
+Medium Article explaning the whole projetc : https://medium.com/@muskansri1/exploring-machine-learning-techniques-for-health-data-analysis-a-case-study-on-pcos-2cffbfc10498
 
 ## Project Description:
 This project focuses on developing a predictive model for Polycystic Ovary Syndrome (PCOS) using tree-based models. The goal is to accurately diagnose PCOS and provide valuable insights for personalized treatment options. Key steps involved in the project are data exploration, missing value imputation using KNN, visualization through boxplots and PDP plots, feature selection, and evaluation using metrics like MSE, RMSE, log loss, AUC, and AUCPR. The models used include Random Forest, XGBoost, and AutoML with hyperparameter tuning.
@@ -14,6 +15,8 @@ This project focuses on developing a predictive model for Polycystic Ovary Syndr
 - Evaluated model performance using appropriate metrics.
 - Leveraged SHAP analysis to assess imputed data quality.
 - Utilized H2O AutoML platform for training and optimizing models.
+
+
 
 ## Licences
 MIT License
